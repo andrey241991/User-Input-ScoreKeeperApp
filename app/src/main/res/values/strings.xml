@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Score Keeper App</string>
+    <string name="comand_a">Comand A</string>
+    <string name="comand_b">Comand B</string>
+    <string name="score_a">0</string>
+    <string name="score_b">9</string>
+</resources>
